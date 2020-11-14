@@ -7,3 +7,7 @@ When we are building web app at some point we need the app to communicate with t
 ## Tutorial 42: HTTP GET Request
 
 We will learn how to make a GET request using `axios` and render the fetched data in our react component. Here we will be using {[JSON} Placeholder](https://jsonplaceholder.typicode.com/) which serves as our API endpoint.
+
+## Tutorial 43: HTTP Post Request
+
+Follow the video
